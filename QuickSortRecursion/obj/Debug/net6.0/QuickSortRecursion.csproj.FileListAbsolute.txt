@@ -1,0 +1,15 @@
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/bin/Debug/net6.0/QuickSortRecursion
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/bin/Debug/net6.0/QuickSortRecursion.deps.json
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/bin/Debug/net6.0/QuickSortRecursion.runtimeconfig.json
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/bin/Debug/net6.0/QuickSortRecursion.dll
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/bin/Debug/net6.0/QuickSortRecursion.pdb
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/obj/Debug/net6.0/QuickSortRecursion.csproj.AssemblyReference.cache
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/obj/Debug/net6.0/QuickSortRecursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/obj/Debug/net6.0/QuickSortRecursion.AssemblyInfoInputs.cache
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/obj/Debug/net6.0/QuickSortRecursion.AssemblyInfo.cs
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/obj/Debug/net6.0/QuickSortRecursion.csproj.CoreCompileInputs.cache
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/obj/Debug/net6.0/QuickSortRecursion.dll
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/obj/Debug/net6.0/refint/QuickSortRecursion.dll
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/obj/Debug/net6.0/QuickSortRecursion.pdb
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/obj/Debug/net6.0/QuickSortRecursion.genruntimeconfig.cache
+/Users/alina_serha/Projects/QuickSortRecursion/QuickSortRecursion/obj/Debug/net6.0/ref/QuickSortRecursion.dll
